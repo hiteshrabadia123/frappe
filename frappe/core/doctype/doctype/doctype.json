@@ -283,6 +283,7 @@
   },
   {
    "default": "1",
+   "depends_on": "eval:!doc.issingle",
    "fieldname": "allow_rename",
    "fieldtype": "Check",
    "label": "Allow Rename",
